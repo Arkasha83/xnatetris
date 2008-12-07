@@ -1,0 +1,7 @@
+Content\graypixel.xnb
+Content\SpriteFontSmall.xnb
+Content\SpriteFontBig.xnb
+Content\sounds\Fall.xnb
+Content\sounds\Win.xnb
+Content\sounds\Lose.xnb
+Content\sounds\Rotate.xnb

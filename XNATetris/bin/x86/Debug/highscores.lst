@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<HighScoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerName>
+    <string>ABA</string>
+    <string>AAA</string>
+    <string>AAA</string>
+    <string>AAA</string>
+    <string>BAF</string>
+    <string>BBD</string>
+    <string>AAB</string>
+    <string>AAB</string>
+    <string>ADA</string>
+    <string>AAA</string>
+  </PlayerName>
+  <Score>
+    <int>14</int>
+    <int>12</int>
+    <int>12</int>
+    <int>4</int>
+    <int>2</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </Score>
+  <Count>10</Count>
+</HighScoreData>
