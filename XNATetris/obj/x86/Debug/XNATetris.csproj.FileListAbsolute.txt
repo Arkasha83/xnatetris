@@ -11,7 +11,3 @@ C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Fall.x
 C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Win.xnb
 C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Lose.xnb
 C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Rotate.xnb
-C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\XNATetris.exe.manifest
-C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\XNATetris.application
-C:\Programming\XNATetris\XNATetris\XNATetris\obj\x86\Debug\XNATetris.exe.manifest
-C:\Programming\XNATetris\XNATetris\XNATetris\obj\x86\Debug\XNATetris.application
