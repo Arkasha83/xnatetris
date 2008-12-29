@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\graypixel.xnb</Output>
-      <Time>2008-12-01T08:08:00.6222-05:00</Time>
+      <Time>2008-12-07T11:40:35.7026-05:00</Time>
     </Item>
     <Item>
       <Source>SpriteFontSmall.spritefont</Source>
@@ -17,7 +17,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\SpriteFontSmall.xnb</Output>
-      <Time>2008-12-02T13:47:52.3184-05:00</Time>
+      <Time>2008-12-07T11:40:35.7016-05:00</Time>
     </Item>
     <Item>
       <Source>SpriteFontBig.spritefont</Source>
@@ -26,7 +26,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\SpriteFontBig.xnb</Output>
-      <Time>2008-12-04T19:43:23.63-05:00</Time>
+      <Time>2008-12-07T11:40:35.7036-05:00</Time>
     </Item>
     <Item>
       <Source>sounds\Fall.wav</Source>
@@ -35,7 +35,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Fall.xnb</Output>
-      <Time>2008-12-07T10:30:54.7576-05:00</Time>
+      <Time>2008-12-07T11:40:35.6916-05:00</Time>
     </Item>
     <Item>
       <Source>sounds\Win.wav</Source>
@@ -44,7 +44,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Win.xnb</Output>
-      <Time>2008-12-07T10:30:54.7166-05:00</Time>
+      <Time>2008-12-07T11:40:35.6896-05:00</Time>
     </Item>
     <Item>
       <Source>sounds\Lose.wav</Source>
@@ -53,7 +53,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Lose.xnb</Output>
-      <Time>2008-12-07T10:30:54.7176-05:00</Time>
+      <Time>2008-12-07T11:40:35.6956-05:00</Time>
     </Item>
     <Item>
       <Source>sounds\Rotate.wav</Source>
@@ -62,7 +62,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Programming\XNATetris\XNATetris\XNATetris\bin\x86\Debug\Content\sounds\Rotate.xnb</Output>
-      <Time>2008-12-07T10:30:54.7566-05:00</Time>
+      <Time>2008-12-07T11:40:35.6936-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
